@@ -24,7 +24,14 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneh777a&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneh777a&show_icons=true&theme=tokyonight) 
+---
+
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sneh777a&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- Optional animated text -->
 <!-- ![Sneha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sneh777a&theme=react-dark) -->
