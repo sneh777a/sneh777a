@@ -15,7 +15,6 @@ Passionate about building real-world applications with **Web Development**, **AI
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
 | **[Quizzo AI](https://github.com/sneh777a/QuizzoAiApp)** | Real-time multiplayer quiz app powered by Gemini AI | MERN • Socket.io • Gemini AI • JWT | [Live Demo](https://quizzo-ai-app-ivory.vercel.app) |
-| **[Decision Maker](https://github.com/sneh777a/Decision-Maker)** | Fun Rock-Paper-Scissors game with live score | Flask • HTML • CSS • JavaScript | Coming Soon |
 | **[Tic-Tac-Toe](https://github.com/sneh777a/Tic-Tac-Toe)** | Classic browser-based game | HTML • CSS • JavaScript | [Live Demo](https://sneh777a.github.io/Tic-Tac-Toe/) |
 
 <br/>
