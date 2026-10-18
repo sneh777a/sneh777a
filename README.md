@@ -4,39 +4,43 @@
 
 ### Final Year CS Student | Full-Stack & Cloud Enthusiast
 
-Passionate about building real-world applications with **Web Development**, **AI**, and **Cloud technologies**.
+I build real-world applications with **Web Development**, **AI**, and **Cloud technologies**.
+
+Currently exploring FastAPI, React, Google Cloud, and AI-powered apps.
 
 </div>
 
-<br/>
+---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|:--------|:------------|:-----------|:------|
-| **[Quizzo AI](https://github.com/sneh777a/QuizzoAiApp)** | Real-time multiplayer quiz app powered by Gemini AI | MERN • Socket.io • Gemini AI • JWT | [Live Demo](https://quizzo-ai-app-ivory.vercel.app) |
-| **[Tic-Tac-Toe](https://github.com/sneh777a/Tic-Tac-Toe)** | Classic browser-based game | HTML • CSS • JavaScript | [Live Demo](https://sneh777a.github.io/Tic-Tac-Toe/) |
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| **[Ecliptica](https://github.com/sneh777a/ecliptica)** | Personal productivity OS — goals, schedule, health & finance | FastAPI • React • PostgreSQL • JWT | [Live](https://ecliptica-mu.vercel.app) |
+| **[Quizzo AI](https://github.com/sneh777a/QuizzoAiApp)** | Real-time multiplayer quiz app powered by Gemini AI | MERN • Socket.io • Gemini AI | [Live](https://quizzo-ai-app-ivory.vercel.app) |
+| **[Starbound](https://github.com/sneh777a/starbound)** | Modern frontend site with polished UI | HTML • CSS • JavaScript | [Live](https://sneh777a.github.io/starbound/) |
+| **[Decision Maker](https://github.com/sneh777a/Decision-Maker)** | Fun Rock-Paper-Scissors game | Flask • HTML • CSS • JS | — |
 
-<br/>
+---
 
 ### 🛠️ Tech Stack
 
 **Frontend**  
-`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+`React` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Vite`
 
 **Backend**  
-`Node.js` `Express` `Flask` `Python`
+`Node.js` `Express` `FastAPI` `Flask` `Python`
 
 **Database & Auth**  
-`MongoDB` `JWT`
+`MongoDB` `PostgreSQL` `JWT`
 
 **Cloud & DevOps**  
-`Google Cloud` `Kubernetes` `Terraform` `Docker`
+`Google Cloud` `Kubernetes` `Terraform` `Docker` `Vercel` `Render`
 
 **Others**  
 `Socket.io` `Gemini AI` `Git`
 
-<br/>
+---
 
 <div align="center">
 
@@ -63,16 +67,12 @@ Passionate about building real-world applications with **Web Development**, **AI
 
 ### 📫 Let's Connect
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:snehaghosh.8481@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/sneh777a">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
