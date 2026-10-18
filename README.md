@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
+
 # Hi, I'm Sneha Ghosh 👋
 
-### Final Year CS Student | Full-Stack & Cloud Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student;Full-Stack+%26+Cloud+Enthusiast;Building+with+AI+%26+Google+Cloud;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
 
 I build real-world applications with **Web Development**, **AI**, and **Cloud technologies**.
 
@@ -25,20 +29,18 @@ Currently exploring FastAPI, React, Google Cloud, and AI-powered apps.
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
-`React` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Vite`
-
-**Backend**  
-`Node.js` `Express` `FastAPI` `Flask` `Python`
-
-**Database & Auth**  
-`MongoDB` `PostgreSQL` `JWT`
-
-**Cloud & DevOps**  
-`Google Cloud` `Kubernetes` `Terraform` `Docker` `Vercel` `Render`
-
-**Others**  
-`Socket.io` `Gemini AI` `Git`
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
@@ -81,6 +83,8 @@ Currently exploring FastAPI, React, Google Cloud, and AI-powered apps.
 
 <br/><br/>
 
-**Always learning • Always building** ✨
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="25" />
+**Always learning • Always building**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="25" />
 
 </div>
