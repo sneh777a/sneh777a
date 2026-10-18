@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
 
 # Hi, I'm Sneha Ghosh 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student;Full-Stack+%26+Cloud+Enthusiast;Building+with+AI+%26+Google+Cloud;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223676-d9b7c0c1-5b2a-4e6a-9b5a-4e0e8b5e5e5e.gif" width="280" alt="Cute coding girl"/>
 
 <br/>
 
