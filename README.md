@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223676-d9b7c0c1-5b2a-4e6a-9b5a-4e0e8b5e5e5e.gif" width="280" alt="Cute coding girl"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="Cute coding girl"/>
 
 <br/>
 
